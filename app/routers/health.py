@@ -1,6 +1,6 @@
-#health check
+# health check
 
-from fastapi import APIrouter
+from fastapi import APIRouter
 
 router = APIRouter()
 
